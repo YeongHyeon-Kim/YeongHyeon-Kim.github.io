@@ -3,9 +3,9 @@ main:
   - title: "About"
     url: /about/
   - title: "Categories"
-     url: /categories/
+    url: /categories/
   - title: "Tags"
-     url: /tags/
+    url: /tags/
   # - title: "Boj-JAVA"
   #   url: /
   # - title: "About"
